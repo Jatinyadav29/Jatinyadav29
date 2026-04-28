@@ -21,44 +21,19 @@
 
 ---
 
-### 🎨 Featured UI/UX & Projects
+### 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>🚀 Project Nebula</strong><br/>
-        <i>3D Models & GSAP Animations</i>
-      </td>
-      <td align="center">
-        <strong>🎮 Project Nexus</strong><br/>
-        <i>MERN Gaming Cafe Manager</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#">
-          <img src="[https://via.placeholder.com/400x250.png?text=Nebula+UI+Mockup" width="400" alt="Project Nebula UI](https://res.cloudinary.com/dxsoxrsdf/image/upload/v1777360827/f1f77720-bd78-495c-b5f9-fd6611056d5f.png)" />
-        </a>
-      </td>
-      <td>
-        <a href="#">
-          <img src="[https://via.placeholder.com/400x250.png?text=Nexus+UI+Mockup" width="400" alt="Project Nexus UI](https://res.cloudinary.com/dxsoxrsdf/image/upload/v1777309349/Screenshot_2026-04-27_at_10.32.23_PM_goiynu.png)" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+* **[Project Nebula](#)**: A space-themed web application blending complex GSAP scrolling animations with interactive 3D models to push the boundaries of frontend performance and visual storytelling.
+* **[Project Nexus](#)**: A full-stack MERN gaming cafe management system featuring real-time booking management, tournament tracking, and robust backend security deployed via Vercel.
 
 ---
 
 ### 💫 About Me
-- 🎓 **Academics:** Currently pursuing my BCA (Batch of 2026).
-- 🧩 **Currently Building:** Expanding *Project Nebula* and deploying *Project Nexus*.
-- 🔬 **Researching:** Authoring a paper titled *"From Tabs to Tasks"*, exploring AI-first browser frameworks.
-- 🌱 **Learning Path:** Mastering the MERN stack → GSAP Animations → Containerization (Docker) → DSA & AI/ML foundations.
-- 🤝 **Collaborations:** Always open to minimal UI/UX projects, beginner-friendly full-stack apps, or hackathons.
-- ⚡ **Fun Fact:** I break my code way more often than I break my streaks.
+* 🎓 **Academics:** Currently pursuing my BCA (Batch of 2026).
+* 💼 **Experience:** Web Development Intern at Umang Travels.
+* 🌱 **Learning Path:** Mastering the MERN stack → Containerization (Docker) → DSA & AI/ML foundations.
+* 🤝 **Collaborations:** Always open to minimal UI/UX projects, beginner-friendly full-stack apps, or hackathons.
+* ⚡ **Fun Fact:** I break my code way more often than I break my streaks.
 
 ---
 
@@ -75,16 +50,7 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatinyadav29&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinyadav29&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jatinyadav29&theme=transparent&hide_border=true&layout=compact" alt="WakaTime Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jatinyadav29&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
+### 🎯 Beyond the Code
+* **Next Steps:** Balancing my BCA coursework with rigorous preparation for the NIMCET exam to pursue my MCA.
+* **Mindset & Systems:** Exploring productivity and systems thinking through reads like *Atomic Habits* and *The Almanack of Naval Ravikant*.
+* **Unplugged:** When I'm away from the keyboard, I'm usually hitting the gym early in the morning.
