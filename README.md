@@ -104,12 +104,6 @@
 
 ---
 
-## 🧭 Beyond the Code
-
-- 📚 **Mindset & systems:** exploring productivity and systems thinking through *Atomic Habits* and *The Almanack of Naval Ravikant*
-- 🏋️ **Unplugged:** usually at the gym early in the morning
-- 🎓 **Next steps:** balancing BCA coursework with rigorous NIMCET prep to pursue my MCA
-
 <div align="center">
 
 <br/>
